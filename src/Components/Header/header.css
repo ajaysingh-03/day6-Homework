@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    display: flex;
+    top: 0;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#645CFF;
+    height: 10vh;
+    color: white;
+    position: fixed;
+    padding: 2.5rem;
+}
+
+h4, 
+p{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
